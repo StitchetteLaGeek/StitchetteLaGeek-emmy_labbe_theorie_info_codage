@@ -1,0 +1,7 @@
+P4 - Q7 : Verification matricielle
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P4_Q7_hamming_matrice.m
+
+Probabilite d'erreur bit p = 0.0500
+Bloc correct sans codage = 0.814506
+Bloc correct avec Hamming = 0.955619

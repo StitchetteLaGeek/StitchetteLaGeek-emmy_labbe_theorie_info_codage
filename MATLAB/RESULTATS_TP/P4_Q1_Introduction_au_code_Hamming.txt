@@ -1,0 +1,21 @@
+P4 - Q1 : Introduction au code Hamming
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P4_Q1_hamming_definition.m
+
+Matrice generatrice G :
+     1     0     0     0     1     1     0
+     0     1     0     0     0     1     1
+     0     0     1     0     1     1     1
+     0     0     0     1     1     0     1
+
+Matrice de controle H :
+     1     0     1     1     1     0     0
+     1     1     1     0     0     1     0
+     0     1     1     1     0     0     1
+
+Verification G*H^T modulo 2 :
+     0     0     0
+     0     0     0
+     0     0     0
+     0     0     0
+

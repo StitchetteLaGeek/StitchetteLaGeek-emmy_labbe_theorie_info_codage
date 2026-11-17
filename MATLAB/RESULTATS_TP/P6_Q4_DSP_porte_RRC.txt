@@ -1,0 +1,7 @@
+P6 - Q4 : DSP porte / RRC
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P6_Q4_DSP_porte_RRC.m
+
+L = 8
+alpha = 0.22
+Bande theorique RRC = 0.6100

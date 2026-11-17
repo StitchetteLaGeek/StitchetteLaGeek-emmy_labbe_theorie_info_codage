@@ -1,0 +1,15 @@
+P3 - Q10 : Parametres de l'integration
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P3_Q10_parametres_integration.m
+
+A = 1.00
+L = 8 echantillons/bit
+Tb = 1.00
+Te = 0.1250
+Eb/N0 = 5.00 dB
+Variance du bruit = 1.2649
+Ecart-type du bruit = 1.1247
+Nombre de bits = 20
+Nombre total d'echantillons = 160
+Nombre d'erreurs apres integration = 0
+TEB = 0.0000

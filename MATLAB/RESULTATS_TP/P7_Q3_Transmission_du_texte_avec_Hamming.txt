@@ -1,0 +1,23 @@
+P7 - Q3 : Transmission du texte avec Hamming
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P7_Q3_texte_avec_hamming.m
+
+Nombre de caracteres transmis = 1000
+
+==============================
+Avec Hamming - Eb/N0 = 3 dB
+TEB apres decodage = 0.0798
+
+Texte recu :
+Pr�lo�u`
+
+Be m’app�lfe#Timothée Bonp%epC. Cestq)�s e`co�na`{s�nt #ar m pie a été exposé% à �ous up rugards �ory de&�a -ha�e de-Tys-synchronje,avant q�e e zetrouve le T�mp� �erdu ; pui3 ɠ nouFe�u loqs�ue j’1i�perdu c� prǩcle�x-te��s $urant&lequel l#vY�` uh s�ns/,ors de mQ�sehers`e#Du Tepw à rU~roufer.-EusBessemenD, ju h�a� ɩcheppé bel!e, et Je@m� td�ns �ouj_uBs dmvany vo�s p/�B qbus �mre p%Bt de mes noupeaux étayw dB��âme. C�rtamds#m’_ny c��t/y���penda�y m� |ie`novale dd#fvge,&et j� cg
+
+==============================
+Avec Hamming - Eb/N0 = 6 dB
+TEB apres decodage = 0.0260
+
+Texte recu :
+Pro\ogue
+
+Je m `ppelle Timothée Bontemps. Certains me cennissent car ma vie a C�té exposé� à tous ley reg`qds lozp de ma phas� de dys-s9nchsonye, ava^t que �e retouve le Temps�perTu ; puis à-neuveau lorsAue j’ai perdu ce psé�ieu� temps $urant lequel la vie a@u� Cenq, lors&de ma Beexercle du Temps à reurouver. Heureusemeot, je l�ai écha�pé belle,'ey0je me tiens touj/urs deva�t vous pou� vous�fai�e plrpde -es nouveauH états d�âme. Certains m’�nt côtoyé pendant m! vme c)vile de juge, et e cnti

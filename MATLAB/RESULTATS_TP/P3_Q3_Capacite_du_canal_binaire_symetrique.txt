@@ -1,0 +1,10 @@
+P3 - Q3 : Capacite du canal binaire symetrique
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P3_Q3_capacite_CBS.m
+
+Probabilite d'erreur pe = 0.0370
+Entropie H(pe) = 0.2284 bits
+Capacite du canal C = 0.7716 bit/bit transmis
+Rendement du code de Hamming R = 0.5714
+Transmission fiable theorquement possible car C > R.
+Pour pe = 0.5, la capacite vaut C = 0.0000

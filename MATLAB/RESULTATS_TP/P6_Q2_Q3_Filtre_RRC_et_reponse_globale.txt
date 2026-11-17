@@ -1,0 +1,23 @@
+P6 - Q2/Q3 : Filtre RRC et reponse globale
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P6_Q2_filtre_adapte.m
+
+L = 8
+alpha = 0.22
+span = 10 symboles
+Energie du filtre = 1.000000
+Nombre de coefficients = 81
+Valeur au centre h(0) = 0.374863
+
+Valeurs de h*h aux multiples de T :
+k = -5 : -0.001334
+k = -4 : 0.001209
+k = -3 : -0.000293
+k = -2 : -0.000168
+k = -1 : 0.000331
+k =  0 : 1.000000
+k =  1 : 0.000331
+k =  2 : -0.000168
+k =  3 : -0.000293
+k =  4 : 0.001209
+k =  5 : -0.001334

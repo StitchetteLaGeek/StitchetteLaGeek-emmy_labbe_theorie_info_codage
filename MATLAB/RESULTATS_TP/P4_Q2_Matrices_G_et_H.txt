@@ -1,0 +1,29 @@
+P4 - Q2 : Matrices G et H
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P4_Q2_hamming_matrices.m
+
+Matrice H :
+     1     0     1     1     1     0     0
+     1     1     1     0     0     1     0
+     0     1     1     1     0     0     1
+
+Colonnes de H :
+Colonne 1 :      1     1     0
+
+Colonne 2 :      0     1     1
+
+Colonne 3 :      1     1     1
+
+Colonne 4 :      1     0     1
+
+Colonne 5 :      1     0     0
+
+Colonne 6 :      0     1     0
+
+Colonne 7 :      0     0     1
+
+Toutes les colonnes sont non nulles : 1
+Nombre de colonnes differentes : 7
+Distance minimale du code = 3
+Nombre maximal d'erreurs detectables = 2
+Nombre maximal d'erreurs corrigeables = 1

@@ -1,0 +1,11 @@
+P3 - Q7 : Canal gaussien
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P3_Q7_canal_gaussien.m
+
+A = 1.00
+sigma = 0.63
+p0 = 0.74
+p1 = 0.26
+Seuil optimal theorique s* = 0.2076
+Seuil donnant le minimum = 0.2087
+Probabilite minimale d'erreur = 0.0475

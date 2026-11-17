@@ -1,0 +1,28 @@
+TP THEORIE DE L'INFORMATION ET DU CODAGE
+LABBE Emmy - ENSIM 5A ASTRE
+
+DEMARRAGE
+1. Extraire le dossier complet de l'archive.
+2. Dans MATLAB, ouvrir ce dossier comme dossier courant.
+3. Saisir : LANCER_TP_COMPLET
+
+Le choix 1 parcourt les parties 2 a 7 dans l'ordre.
+Les choix 2 a 7 permettent de lancer une seule partie depuis son debut.
+Apres une etape : ENTREE = continuer, R = relancer, M = menu, Q = quitter.
+Les figures et les resultats texte sont enregistres dans RESULTATS_TP.
+Les variables des questions et la sortie Simulink "out" restent accessibles
+dans le Workspace principal. Certaines questions font elles-memes clear
+ou close all ; les sauvegardes permettent de revoir les figures precedentes.
+
+FICHIERS NECESSAIRES
+Conserver ensemble les fichiers .m, les trois modeles .slx et les deux
+fichiers texte. Les fonctions source.m, entropie_empirique.m,
+huffman_perso.m et canal_cbs.m doivent conserver exactement ces noms.
+Les fonctions utilitaires sont appelees avec leurs arguments par les
+questions ; elles ne se lancent pas seules avec le bouton Run.
+
+LOGICIELS
+MATLAB, Simulink, Communications Toolbox et Signal Processing Toolbox.
+
+Les scripts de calcul, les fonctions et les modeles du TP ont ete conserves.
+Seuls les noms des quatre fonctions ci-dessus et le lanceur ont ete corriges.

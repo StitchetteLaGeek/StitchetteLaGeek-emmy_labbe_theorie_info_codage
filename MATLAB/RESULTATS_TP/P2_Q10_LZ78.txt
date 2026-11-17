@@ -1,0 +1,11 @@
+P2 - Q10 : LZ78
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P2_Q10_LZ78.m
+
+Message original : ABAABABAABAB
+
+Couples obtenus :
+(0,A) (0,B) (1,A) (2,A) (4,A) (4,B) 
+
+Message decode : ABAABABAABAB
+Decodage correct : message restitue sans erreur.

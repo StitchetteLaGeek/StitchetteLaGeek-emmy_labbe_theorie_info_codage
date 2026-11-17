@@ -1,0 +1,15 @@
+P2 - Q8 : Memoire de la source
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P2_Q8_memoire_source.m
+
+Nombre de caracteres = 4488
+Entropie ordre 0 = 4.3534 bits/caractere
+Code fixe = 6.0000 bits/caractere
+Huffman = 4.3790 bits/caractere
+H(X1X2)/2 = 3.7596 bits/caractere
+
+--- Comparaison ---
+Code fixe        : 6.0000 bits/caractere
+Entropie ordre 0 : 4.3534 bits/caractere
+Huffman          : 4.3790 bits/caractere
+Entropie paires  : 3.7596 bits/caractere

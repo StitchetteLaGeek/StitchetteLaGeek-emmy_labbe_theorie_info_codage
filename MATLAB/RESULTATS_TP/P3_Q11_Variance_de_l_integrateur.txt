@@ -1,0 +1,9 @@
+P3 - Q11 : Variance de l'integrateur
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P3_Q11_variance_integrateur.m
+
+Eb/N0 = 5.00 dB
+Variance du bruit par echantillon = 1.2649
+Variance apres integration = 0.1581
+N0/(2Tb) = 0.1581
+TEB theorique = 0.005954

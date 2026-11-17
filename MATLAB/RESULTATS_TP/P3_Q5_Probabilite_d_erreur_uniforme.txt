@@ -1,0 +1,6 @@
+P3 - Q5 : Probabilite d'erreur uniforme
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P3_Q5_erreur_uniforme.m
+
+Seuil optimal numerique = 0.954
+Probabilite minimale d'erreur = 0.1269

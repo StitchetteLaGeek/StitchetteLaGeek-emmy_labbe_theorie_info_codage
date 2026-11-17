@@ -1,0 +1,6 @@
+P3 - Q6 : Simulation du canal uniforme
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P3_Q6_simulation_uniforme.m
+
+Seuil optimal simule = 1.00
+TEB minimal simule = 0.1292

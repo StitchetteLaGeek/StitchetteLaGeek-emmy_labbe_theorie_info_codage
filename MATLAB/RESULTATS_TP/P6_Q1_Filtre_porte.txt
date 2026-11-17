@@ -1,0 +1,16 @@
+P6 - Q1 : Filtre porte
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P6_Q1_filtre_porte.m
+
+
+Eb/N0(dB)   Theorie       Simulation
+  0         7.864960e-02    7.898000e-02
+  1         5.628195e-02    5.606000e-02
+  2         3.750613e-02    3.784000e-02
+  3         2.287841e-02    2.286000e-02
+  4         1.250082e-02    1.239000e-02
+  5         5.953867e-03    5.690000e-03
+  6         2.388291e-03    2.190000e-03
+  7         7.726748e-04    8.500000e-04
+  8         1.909078e-04    1.600000e-04
+  9         3.362723e-05    2.000000e-05

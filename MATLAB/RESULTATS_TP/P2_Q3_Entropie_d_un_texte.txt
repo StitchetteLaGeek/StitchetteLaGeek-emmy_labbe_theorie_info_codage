@@ -1,0 +1,10 @@
+P2 - Q3 : Entropie d'un texte
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P2_Q3_entropie_texte.m
+
+Nombre de caracteres = 4488
+Taille de l'alphabet = 64 caracteres
+Code fixe = 6 bits/caractere
+Taille avec code fixe = 26928 bits
+Taille avec codage 8 bits = 35904 bits
+Redondance par rapport a 8 bits = 25.00 %

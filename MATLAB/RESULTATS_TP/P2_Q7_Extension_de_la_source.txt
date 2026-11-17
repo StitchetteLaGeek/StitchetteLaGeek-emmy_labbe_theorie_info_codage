@@ -1,0 +1,30 @@
+P2 - Q7 : Extension de la source
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P2_Q7_extension_source.m
+
+p1_ext = 0.08
+Entropie de la source = 0.4022 bits/bit
+
+ k    Lk/k
+ 1   1.0000
+ 2   0.6168
+ 3   0.4930
+ 4   0.4415
+ 5   0.4234
+ 6   0.4087
+ 7   0.4060
+ 8   0.4063
+ 9   0.4055
+10   0.4047
+
+ k    Theorie    Simulation
+ 1   1.0000      1.0000
+ 2   0.6168      0.6157
+ 3   0.4930      0.4911
+ 4   0.4415      0.4384
+ 5   0.4234      0.4208
+ 6   0.4087      0.4058
+ 7   0.4060      0.4035
+ 8   0.4063      0.4026
+ 9   0.4055      0.4019
+10   0.4047      0.4009

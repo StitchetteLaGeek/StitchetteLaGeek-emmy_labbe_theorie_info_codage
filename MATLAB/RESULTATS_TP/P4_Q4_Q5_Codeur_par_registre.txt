@@ -1,0 +1,37 @@
+P4 - Q4/Q5 : Codeur par registre
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P4_Q4_Q5_hamming_registre.m
+
+Etat initial : s0=0 s1=0 s2=0
+Apres bit 1 : s0=1 s1=1 s2=0
+Apres bit 1 : s0=1 s1=0 s2=1
+Apres bit 0 : s0=1 s1=0 s2=0
+Apres bit 1 : s0=1 s1=0 s2=0
+
+Bits de redondance :    1   0   0
+
+Mot code par registre :      1     0     1     1     1     0     0
+
+Mot code matriciel :      1     0     1     1     1     0     0
+
+Les deux codeurs donnent le meme resultat.
+
+Verification des 16 messages :
+0  0  0  0 -> OK
+0  0  0  1 -> OK
+0  0  1  0 -> OK
+0  0  1  1 -> OK
+0  1  0  0 -> OK
+0  1  0  1 -> OK
+0  1  1  0 -> OK
+0  1  1  1 -> OK
+1  0  0  0 -> OK
+1  0  0  1 -> OK
+1  0  1  0 -> OK
+1  0  1  1 -> OK
+1  1  0  0 -> OK
+1  1  0  1 -> OK
+1  1  1  0 -> OK
+1  1  1  1 -> OK
+
+Les 16 messages donnent le meme resultat avec les deux codeurs.

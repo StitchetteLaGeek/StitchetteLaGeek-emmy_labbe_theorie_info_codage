@@ -1,0 +1,14 @@
+P5 - Q2 : Modulation / demodulation
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P5_Q2_modulation_demodulation_QPSK.m
+
+Bits emis :
+     0     0     0     1     1     1     1     0
+
+Symboles QPSK :
+   0.7071 + 0.7071i  -0.7071 + 0.7071i  -0.7071 - 0.7071i   0.7071 - 0.7071i
+
+Bits demodules :
+   0   0   0   1   1   1   1   0
+
+Modulation / demodulation correcte.

@@ -1,0 +1,15 @@
+P6 - Q6 : Decalage de T/4
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P6_Q6_decalage_echantillonnage.m
+
+L = 8
+Decalage T/4 = 2 echantillons
+
+alpha = 0.22
+TEB echantillonnage optimal = 0.006020
+TEB avec decalage T/4 = 0.049820
+
+alpha = 1.00
+TEB echantillonnage optimal = 0.005755
+TEB avec decalage T/4 = 0.024490
+

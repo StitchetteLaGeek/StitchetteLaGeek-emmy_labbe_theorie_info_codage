@@ -1,0 +1,19 @@
+P5 - Q6 : QPSK + Hamming
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P5_Q6_QPSK_hamming.m
+
+Nombre de bits utiles = 200000
+Nombre de bits codes = 350000
+Nombre pair de bits codes : 1
+
+Eb/N0(dB)   Simulation      Theorie
+  0         1.206700e-01     8.587210e-02
+  1         8.528500e-02     5.989805e-02
+  2         5.507000e-02     3.825978e-02
+  3         3.231500e-02     2.188499e-02
+  4         1.526500e-02     1.090898e-02
+  5         7.180000e-03     4.584460e-03
+  6         2.210000e-03     1.560394e-03
+  7         6.300000e-04     4.095957e-04
+  8         1.550000e-04     7.804792e-05
+  9         5.000000e-06     1.000626e-05

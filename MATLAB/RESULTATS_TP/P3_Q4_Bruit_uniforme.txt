@@ -1,0 +1,11 @@
+P3 - Q4 : Bruit uniforme
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P3_Q4_bruit_uniforme.m
+
+A = 1.00
+a = 1.95
+Zone de recouvrement : [-0.95 ; 0.95]
+p0 = 0.74
+p1 = 0.26
+Dans la zone de recouvrement, on choisit le bit 0.
+Un seuil optimal peut etre choisi en s = 0.95

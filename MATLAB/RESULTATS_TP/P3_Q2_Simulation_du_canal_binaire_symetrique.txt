@@ -1,0 +1,9 @@
+P3 - Q2 : Simulation du canal binaire symetrique
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P3_Q2_simulation_CBS.m
+
+Probabilite theorique pe = 0.0370
+Nombre d'erreurs = 3700
+TEB mesure = 0.0370
+Intervalle de confiance a 95 % : [0.0358 ; 0.0382]
+La valeur theorique pe appartient a l'intervalle.

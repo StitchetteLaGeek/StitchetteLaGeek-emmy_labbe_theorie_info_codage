@@ -1,0 +1,6 @@
+P4 - Q8 : Correction d'une erreur
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P4_Q8_hamming_correction.m
+
+Probabilite d'erreur bit avant correction = 0.050000
+Probabilite d'erreur bit apres correction ≈ 0.013245

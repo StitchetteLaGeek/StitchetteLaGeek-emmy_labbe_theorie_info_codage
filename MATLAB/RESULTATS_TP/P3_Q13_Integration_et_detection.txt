@@ -1,0 +1,8 @@
+P3 - Q13 : Integration et detection
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P3_Q13_integration.m
+
+Variance avant integration = 1.2646
+Variance theorique avant = 1.2675
+Variance apres integration = 0.1583
+Variance theorique apres = 0.1584

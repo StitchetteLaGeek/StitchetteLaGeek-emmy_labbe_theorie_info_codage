@@ -1,0 +1,8 @@
+P2 - Q1 : Generation de la source binaire
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P2_Q1_source_binaire_simulation.m
+
+Probabilite theorique p1 = 0.2600
+Frequence empirique des 1 = 0.2601
+Entropie de la source = 0.8267 bits/symbole
+Debit information = 0.8267 bit/s

@@ -1,0 +1,7 @@
+P2 - Q9 : Sortie Huffman
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P2_Q9_sortie_huffman.m
+
+Proportion de 1 = 0.5380
+Entropie des bits = 0.9958 bits/bit
+Entropie des paires de bits = 0.9958 bits/bit

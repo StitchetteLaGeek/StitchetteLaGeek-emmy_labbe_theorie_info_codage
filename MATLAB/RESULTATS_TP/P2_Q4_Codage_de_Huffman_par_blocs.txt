@@ -1,0 +1,12 @@
+P2 - Q4 : Codage de Huffman par blocs
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P2_Q4_huffman_blocs.m
+
+Symbole 1 : p = 0.4 -> 11
+Symbole 2 : p = 0.2 -> 00
+Symbole 3 : p = 0.2 -> 01
+Symbole 4 : p = 0.1 -> 100
+Symbole 5 : p = 0.1 -> 101
+Longueur moyenne = 2.20 bits
+Somme de Kraft = 1.00
+Le code est prefixe.

@@ -1,0 +1,9 @@
+P7 - Q1 : Canal a deux trajets
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P7_Q1_canal_deux_trajets.m
+
+L = 8
+alpha = 0.22
+beta = 0.44
+Retard echo = 2 symbole(s)
+TEB avec canal a deux trajets = 0.039885

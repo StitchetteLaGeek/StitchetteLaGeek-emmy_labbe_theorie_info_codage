@@ -1,0 +1,20 @@
+P4 - Q3 : Distance minimale
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P4_Q3_hamming_distance.m
+
+Message original :      1     0     1     1
+
+Mot code :      1     0     1     1     1     0     0
+
+Message decode sans erreur :      1     0     1     1
+
+Test sans erreur : OK
+
+Tests avec une erreur simple :
+Erreur position 1 : corrigee
+Erreur position 2 : corrigee
+Erreur position 3 : corrigee
+Erreur position 4 : corrigee
+Erreur position 5 : corrigee
+Erreur position 6 : corrigee
+Erreur position 7 : corrigee

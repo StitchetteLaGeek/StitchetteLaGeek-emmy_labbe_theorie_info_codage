@@ -1,0 +1,12 @@
+P5 - Q1 : Constellation QPSK Gray
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P5_Q1_constellation_QPSK.m
+
+Mapping Gray QPSK :
+00 -> 0.707 +0.707j
+01 -> -0.707 +0.707j
+11 -> -0.707 -0.707j
+10 -> 0.707 -0.707j
+
+Energie symbole Es = 1.0000
+Energie bit Eb = 0.5000

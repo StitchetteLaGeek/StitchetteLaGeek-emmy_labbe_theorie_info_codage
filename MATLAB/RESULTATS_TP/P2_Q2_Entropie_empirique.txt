@@ -1,0 +1,5 @@
+P2 - Q2 : Entropie empirique
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\entropie_empirique.m
+
+Entropie empirique = 0.8270 bits/symbole

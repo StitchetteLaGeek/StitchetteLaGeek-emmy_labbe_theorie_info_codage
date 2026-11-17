@@ -1,0 +1,21 @@
+P7 - Q3 : Transmission du texte sans Hamming
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P7_Q3_texte_sans_hamming.m
+
+Nombre de caracteres transmis = 1000
+
+==============================
+Eb/N0 = 3 dB
+TEB = 0.0676
+
+Texte recu :
+Tvo�ggueJ
+�e m��!qplld TIegth�)%"of�e}RS. Ggrtakfs -e gonn�kSseNt car m�0va% a ©vŨ�EY5Oséu �� dOus Les0r'gcrds0,ovc0$d ma qjas% f`dys/sy~clrnnhd. cvant sud0j�"2$Vrowve l� TemPs tErfu ; pwYs"�("nouVequ .Or3qut"j�ai peSdu ce tr�)b)Uux tem�s"dGSdft l�uue\Bla"vig cun senw>"ors dE"ma vef`drg(e de`EGpC ¢"rgtsouves.`euveus%men�*`jg0l�`x ��shap`ú belDe, et j% ed viuns &o�bour30&evcneb6ouW0`gur Vgus F`a�ebrAt debmes no�vdaUx è�avs d� 	ϲog.`CervEAns -栙on� ۶tgy©�pgnda.t"gA iE �iVile"de`jwgg(�d
+
+==============================
+Eb/N0 = 6 dB
+TEB = 0.0277
+
+Texte recu :
+Prologue
+�Jg m’appelle Tamotjèe Bo�demps.`C%rtains -e`gonnaissgNt car ma vi� c ©tù e|pos��% à to�s les regards lo�s0de ma Pha3d de`dys-sqnc(Ronie, avant sue j%`r%TrouVe",e Temps peRdu ; pui� à nouveau`Lo�sqUe b�!i perdu ce rr�)ciUux teMps durant leque| la vie a 7n sens.�no�s de0ea Rebhgrche0du TEmps"�  retbouver. Heureusemend j�`l’aa èchapré bellE, %t je md tienc tnujours devant vous pour vous faise r!rt de mes Nouveaux"C�tats $’âoE> drd`)ns m’ont`c�toyé 1endAnt m� vie chvide fe *ufg, Et`je c

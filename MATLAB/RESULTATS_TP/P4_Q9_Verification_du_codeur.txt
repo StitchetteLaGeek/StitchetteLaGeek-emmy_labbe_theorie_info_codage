@@ -1,0 +1,17 @@
+P4 - Q9 : Verification du codeur
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P4_Q9_hamming_codeur.m
+
+Rendement R = 0.5714
+
+Eb/N0(dB)   Sans codage    Bit code
+  0         0.078650      0.142525
+  1         0.056282      0.115169
+  2         0.037506      0.089176
+  3         0.022878      0.065513
+  4         0.012501      0.045102
+  5         0.005954      0.028647
+  6         0.002388      0.016461
+  7         0.000773      0.008349
+  8         0.000191      0.003623
+  9         0.000034      0.001293

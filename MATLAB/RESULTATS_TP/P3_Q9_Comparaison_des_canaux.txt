@@ -1,0 +1,8 @@
+P3 - Q9 : Comparaison des canaux
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P3_Q9_comparaison_canaux.m
+
+--- Comparaison des canaux ---
+CBS : Pe = 0.0370
+Uniforme : Pe min = 0.1267, seuil optimal = 0.9500
+Gaussien : Pe min = 0.0475, seuil optimal = 0.2076

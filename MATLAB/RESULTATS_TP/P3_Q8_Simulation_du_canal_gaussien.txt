@@ -1,0 +1,10 @@
+P3 - Q8 : Simulation du canal gaussien
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P3_Q8_simulation_gaussien.m
+
+Seuil optimal theorique = 0.2076
+Seuil optimal simule = 0.2000
+TEB avec seuil optimal = 0.0484
+TEB avec seuil s = 0 = 0.0571
+Gain absolu = 0.0088
+Gain relatif = 15.33 %

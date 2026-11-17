@@ -1,0 +1,17 @@
+P2 - Q5 : Huffman applique au texte
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P2_Q5_huffman_texte.m
+
+Entropie H = 4.3534 bits/caractere
+Longueur moyenne Huffman = 4.3790 bits/caractere
+Efficacite = 99.41 %
+H = 4.3534
+L moyenne = 4.3790
+H + 1 = 5.3534
+La relation H <= L < H+1 est verifiee.
+Nombre de bits apres Huffman = 19653 bits
+Decodage correct : le texte est restitue sans erreur.
+Taille originale = 35904 bits
+Taille Huffman = 19653 bits
+Taille finale = 54.74 % de la taille originale
+Reduction de taille = 45.26 %

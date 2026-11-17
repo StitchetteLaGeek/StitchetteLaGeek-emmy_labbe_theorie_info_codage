@@ -1,0 +1,7 @@
+P2 - Q6 : Cout de la table Huffman
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P2_Q6_cout_table_huffman.m
+
+Cout estime de la table Huffman = 1055 bits
+Longueur minimale pour compenser la table = 292 caracteres
+Table inferieure a 1 % pour environ 24093 caracteres

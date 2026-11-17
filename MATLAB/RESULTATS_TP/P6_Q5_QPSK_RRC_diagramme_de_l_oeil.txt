@@ -1,0 +1,5 @@
+P6 - Q5 : QPSK + RRC + diagramme de l'oeil
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P6_Q5_QPSK_RRC_oeil.m
+
+TEB apres filtrage RRC = 0.005400

@@ -1,0 +1,14 @@
+P2 - Q11 : Convergence de LZ78
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P2_Q11_LZ78_convergence.m
+
+Texte complet : 4.9159 bits/caractere
+5000 premiers caracteres : 5.1166 bits/caractere
+
+Entropie theorique = 0.4022 bits/bit
+
+Taille source      LZ78 bits/bit
+      1000          0.5690
+     10000          0.5390
+    100000          0.5067
+   1000000          0.4827

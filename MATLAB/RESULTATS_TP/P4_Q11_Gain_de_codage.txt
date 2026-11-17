@@ -1,0 +1,11 @@
+P4 - Q11 : Gain de codage
+
+Script : C:\Users\emmyl\OneDrive\Documents\MATLAB\TP_Simulink\TP_Simulink\P4_Q11_hamming_gain.m
+
+Le codage devient avantageux vers Eb/N0 = 2.36 dB
+Pour TEB = 1e-4 :
+Eb/N0 sans codage = 8.40 dB
+Eb/N0 avec Hamming = 7.86 dB
+Gain de codage = 0.54 dB
+Limite de Shannon pour R = 4/7 : 0.24 dB
+Limite absolue : -1.59 dB
